@@ -1,9 +1,15 @@
 ### Hi, I'm Calvin 👋
 
-I'm an open source developer working on data infrastructure, and an ASF Member. Most of my time goes to Apache projects. The rest goes to small tools I wish existed, and to three cats who consider my keyboard theirs. 🐈🐈🐈
+I'm an open source developer working on data infrastructure, and a Member of the [Apache Software Foundation](https://www.apache.org/). Most of my time goes to Apache projects. The rest goes to small tools I wish existed, and to three cats who consider my keyboard theirs. 🐈🐈🐈
 
-- **PMC Member**: Apache [Doris](https://github.com/apache/doris) · [Sourcelume](https://github.com/apache/sourcelume-spec) · [Magpie](https://github.com/apache/magpie) · [Geode](https://github.com/apache/geode) · [Incubator](https://incubator.apache.org/) · [DolphinScheduler](https://github.com/apache/dolphinscheduler) · [SeaTunnel](https://github.com/apache/seatunnel) · [Wayang](https://github.com/apache/wayang)
-- **Incubator Mentor**: [Auron](https://github.com/apache/auron) (native vectorized execution for Spark SQL), [BifroMQ](https://github.com/apache/bifromq) (distributed MQTT broker), [GraphAr](https://github.com/apache/graphar) (file format for graph data), [Baremaps](https://github.com/apache/incubator-baremaps) (toolkit for building maps and vector tiles)
+#### At Apache
+
+I'm a PMC Member of Apache [Doris](https://github.com/apache/doris), [Sourcelume](https://github.com/apache/sourcelume-spec), [Magpie](https://github.com/apache/magpie), [Geode](https://github.com/apache/geode), [DolphinScheduler](https://github.com/apache/dolphinscheduler), [SeaTunnel](https://github.com/apache/seatunnel) and [Wayang](https://github.com/apache/wayang).
+
+I'm also a member of the [Apache Incubator](https://incubator.apache.org/) PMC, where I mentor podlings: new projects learning to work as Apache communities. In practice that means helping them get their first releases out, sort through licensing, and build a community that doesn't depend on any one person. *Community over code*, as we say.
+
+- Mentoring now: [Auron](https://github.com/apache/auron) (native vectorized execution for Spark SQL) · [BifroMQ](https://github.com/apache/bifromq) (distributed MQTT broker) · [GraphAr](https://github.com/apache/graphar) (file format for graph data)
+- Earlier: [Baremaps](https://github.com/apache/incubator-baremaps) (toolkit for building maps and vector tiles)
 
 #### 🐇 Burrow
 
