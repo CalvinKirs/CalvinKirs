@@ -11,8 +11,4 @@ I read a lot of Markdown, and Chrome shows it one raw file at a time. So I built
 
 [![The same Markdown file in Chrome without and with Burrow](https://raw.githubusercontent.com/CalvinKirs/burrow/main/docs/images/before-after.png)](https://github.com/CalvinKirs/burrow)
 
-If it turns out useful to you, a ⭐ or an issue means a lot.
 
-#### Also
-
-- [Pulse](https://github.com/CalvinKirs/Pulse) – lightweight connectivity testing toolkit.
